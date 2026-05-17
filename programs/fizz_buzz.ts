@@ -1,3 +1,5 @@
+export {};
+
 let n: number = 0;
 
 while (true) {

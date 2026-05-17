@@ -1,3 +1,5 @@
+export {};
+
 let n = 0;
 
 while (true) {
