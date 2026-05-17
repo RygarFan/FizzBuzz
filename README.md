@@ -6,6 +6,7 @@ This repository is just a collection of fizz buzz programs in different language
 
 - C
 - C++
+- Fortran
 - JavaScript
 - Python
 - TypeScript

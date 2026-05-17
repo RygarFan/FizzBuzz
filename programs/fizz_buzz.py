@@ -1,4 +1,4 @@
-n = 0
+n = 1
 
 while (True):
     if (n % 3 == 0):

@@ -1,6 +1,6 @@
 export {};
 
-let n = 0;
+let n = 1;
 
 while (true) {
 	if (n % 3 === 0) {
