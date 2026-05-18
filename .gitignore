@@ -1,1 +1,7 @@
+# Executables
 *.exe
+
+# Dotnet project files
+obj/
+bin/
+*.csproj
