@@ -11,3 +11,4 @@ This repository is just a collection of fizz buzz programs in different language
 - Python
 - Racket
 - TypeScript
+- C#
