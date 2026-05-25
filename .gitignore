@@ -5,3 +5,7 @@
 obj/
 bin/
 *.csproj
+
+#Clojure repl files
+.clj-kondo/
+.lsp/
