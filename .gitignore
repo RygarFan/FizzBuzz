@@ -9,3 +9,4 @@ bin/
 #Clojure repl files
 .clj-kondo/
 .lsp/
+.calva/
