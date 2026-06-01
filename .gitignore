@@ -10,3 +10,6 @@ bin/
 .clj-kondo/
 .lsp/
 .calva/
+
+#Rust extra files
+*.pdb
