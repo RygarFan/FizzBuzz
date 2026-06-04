@@ -1,5 +1,7 @@
 # Executables
 *.exe
+*.out
+*.bin
 
 # Dotnet project files
 obj/
